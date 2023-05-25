@@ -12,5 +12,5 @@
 - [Bracxy@page](https://nileshthakur2003.github.io/bracxy/)
 
 
-- Drop the Mail :- [nileshthakurbgp@gmail.com](nileshthakurbgp@gmail.com)
+- Drop the Mail :- [nileshthakurbgp@gmail.com](mailto:nileshthakurbgp@gmail.com)
 
