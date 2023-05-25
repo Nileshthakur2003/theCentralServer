@@ -3,13 +3,14 @@
 - 🌱 I’m currently learning physics.
 - 💞️ I’m looking to collaborate on coding projects.
 - 📫 How to reach me ...
-- https://nileshthakur2003.github.io/Nileshthakur2003/
+- [My Github Index](https://nileshthakur2003.github.io/theCentralServer/)
 
 
 
-- Bracxy - https://github.com/Nileshthakur2003/bracxy
+
+- [The Bracxy project](https://github.com/Nileshthakur2003/bracxy)
 
 
 
-- Drop the Mail :- nileshthakurbgp@gmail.com
+- Drop the Mail :- [nileshthakurbgp@gmail.com](nileshthakurbgp@gmail.com)
 
