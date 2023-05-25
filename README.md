@@ -5,8 +5,8 @@
 - 📫 How to reach me ...
 ~ https://nileshthakur2003.github.io/Nileshthakur2003/
 
-**My Projects**
-1. Bracxy - https://github.com/Nileshthakur2003/bracxy
+
+ Bracxy - https://github.com/Nileshthakur2003/bracxy
 
 
 
