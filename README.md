@@ -8,8 +8,8 @@
 
 
 
-- [The Bracxy project](https://github.com/Nileshthakur2003/bracxy)
-
+- [The Bracxy project @repo](https://github.com/Nileshthakur2003/bracxy)
+- [Bracxy@page](https://nileshthakur2003.github.io/bracxy/)
 
 
 - Drop the Mail :- [nileshthakurbgp@gmail.com](nileshthakurbgp@gmail.com)
