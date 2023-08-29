@@ -12,7 +12,7 @@
 - [Bracxy@page](https://nileshthakur2003.github.io/bracxy/)
 - Certifications:-
 1. [Informea UNCCD]()
-2. [Kaggle Python]()
+2. [Kaggle Python](https://www.kaggle.com/learn/certification/nileshqwerty/python)
 
 
 - Drop the Mail :- [nileshthakurbgp@gmail.com](mailto:nileshthakurbgp@gmail.com)
