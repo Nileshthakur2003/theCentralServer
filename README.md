@@ -13,7 +13,6 @@
 - Certifications:-
 1. [Informea UNCCD]()
 2. [Kaggle Python](https://www.kaggle.com/learn/certification/nileshqwerty/python)
-
-
+3. [SRM Data Science Week](https://nileshthakur2003.github.io/theCentralServer/srmds.html)
 - Drop the Mail :- [nileshthakurbgp@gmail.com](mailto:nileshthakurbgp@gmail.com)
 
